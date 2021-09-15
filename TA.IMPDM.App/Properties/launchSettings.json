@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TA.IMPDM.App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
